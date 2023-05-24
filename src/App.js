@@ -9,6 +9,8 @@ date = date.slice(0,15)
 
 
 
+
+
 function App() {
   const [query, setQuery] = useState('');
   const [weather, setWeather] = useState({});
